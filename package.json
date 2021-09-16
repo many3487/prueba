@@ -1,0 +1,23 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "solo para pruebas",
+  "main": "hola.js",
+  "dependencies": {
+    "http-server": "^13.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/many3487/prueba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/many3487/prueba/issues"
+  },
+  "homepage": "https://github.com/many3487/prueba#readme"
+}
